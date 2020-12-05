@@ -8,6 +8,7 @@ datasets used by each sorting algorithm. The sorting algorithms available in mai
 2. Quick sort
 3. Merge sort
 4. Heap sort
+
 Additionally, 4 test cases are available to use for testing each respective sorting algorithm. For each sorting algorithm,
 it will provide statistics about the number of comparisons and swaps, as well as the time that it took for each algorithm into the console.
 
